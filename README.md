@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
+![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
 ![Xia's GitHub stats](https://github-readme-stats.vercel.app/api?username=X1aZhongwen&count_private=true&show_icons=true&theme=tokyonight)
 
 
